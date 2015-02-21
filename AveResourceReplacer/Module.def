@@ -1,0 +1,12 @@
+LIBRARY	"AveResourceReplacer"
+EXPORTS
+	StartHook
+	StopHook
+	IsHookRunning
+	
+	PatchAll
+	UnpatchAll
+	SetResourceLookupBasePath
+	
+	SetSpyCallbackWindow
+	GetSpyCallbackWindow
